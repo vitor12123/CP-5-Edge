@@ -27,9 +27,8 @@ Prints IOT postman:
 
 <img width="945" height="360" alt="image" src="https://github.com/user-attachments/assets/d2e66978-28db-4ade-9858-f07b77f76702" />
 
-
-
-  
+link VM: 
+http://20.67.242.234:8080  
 
 wokwi: 
 https://wokwi.com/projects/445381551950560257
