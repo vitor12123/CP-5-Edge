@@ -23,6 +23,12 @@ Detalhes da implementação:
 Prints IOT postman: 
 <img width="943" height="356" alt="image" src="https://github.com/user-attachments/assets/2312dbb5-c8fa-4fc6-b78c-19e7a1787a9f" />
 
+<img width="935" height="358" alt="image" src="https://github.com/user-attachments/assets/1285475d-81fc-497f-afe0-31fd94e2ffee" />
+
+<img width="945" height="360" alt="image" src="https://github.com/user-attachments/assets/d2e66978-28db-4ade-9858-f07b77f76702" />
+
+
+
   
 
 wokwi: 
