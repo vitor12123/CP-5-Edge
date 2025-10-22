@@ -8,12 +8,12 @@ Integrantes:
 
 Detalhes da implementação: 
   * Hardware:
-    ESP32 
-    Sensor DHT22 
-    Potenciômetro
-    LED onboard do ESP32
-    Potenciômetro para luminosidade
-    Fonte: USB
+    . ESP32 
+    . Sensor DHT22 
+    . Potenciômetro
+    . LED onboard do ESP32
+    . Potenciômetro para luminosidade
+    . Fonte: USB
   * Bibliotecas:
     WiFi.h
     PubSubClient.h (MQTT)
