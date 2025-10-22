@@ -7,14 +7,14 @@ Integrantes:
 * João Toledo
 
 Detalhes da implementação: 
-   * Hardware:
+  * Hardware:
     * ESP32 
     * Sensor DHT22 
     * Potenciômetro
     * LED onboard do ESP32
     * Potenciômetro para luminosidade
     * Fonte: USB
-   * Bibliotecas:
+  * Bibliotecas:
     * WiFi.h
     * PubSubClient.h (MQTT)
     * DHT.h (Temperatura e Umidade)
