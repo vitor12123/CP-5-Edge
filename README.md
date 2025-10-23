@@ -29,8 +29,6 @@ Prints IOT postman:
 
 link VM: 
 http://20.67.242.234:8080/ 
-* caso o primeiro link nao funcione tente esse:
-http://20.67.242.234:8081/
 
 wokwi: 
 https://wokwi.com/projects/445381551950560257
